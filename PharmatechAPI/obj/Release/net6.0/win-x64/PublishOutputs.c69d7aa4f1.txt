@@ -1,0 +1,5 @@
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\win-x64\PubTmp\Out\PharmatechAPI.pdb
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\win-x64\PubTmp\Out\sni.dll
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\win-x64\PubTmp\Out\PharmatechAPI.exe

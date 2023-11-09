@@ -1,0 +1,17 @@
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\PharmatechAPI.exe
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\PharmatechAPI.dll
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\PharmatechAPI.deps.json
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\PharmatechAPI.runtimeconfig.json
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\PharmatechAPI.pdb
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PHARMATECH\Desktop\Repositorio API\PharmatechAPI\PharmatechAPI\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
